@@ -11,7 +11,7 @@ const About = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12 mt-8 items-center">
           <div className="animate-slide-in-left" style={{ animationDelay: "0.2s" }}>
             <img 
-              src="/public/suraj.png" 
+              src="/suraj.png" 
               alt="Suraj Shedge" 
               className="rounded-lg shadow-lg w-full max-w-md mx-auto object-cover"
             />
