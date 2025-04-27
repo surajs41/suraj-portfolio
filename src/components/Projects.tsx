@@ -12,8 +12,8 @@ const Projects = () => {
         "A comprehensive Java-based system for managing hospital operations including patient records, doctor schedules, and appointment booking.",
       image: "/hospital.png",
       tags: ["Java", "MySQL", "Spring Boot", "Hibernate", "Bootstrap"],
-      liveUrl: "#",
-      repoUrl: "#",
+      liveUrl: "medflow-hospital-nexus.vercel.app",
+      repoUrl: "https://github.com/surajs41/MedicoCare-hospital-nexus",
     },
     {
       title: "Face Detection System",
@@ -30,8 +30,8 @@ const Projects = () => {
         "A web application that enables users to rent bikes online with features like booking, payment processing, and inventory management.",
       image: "/bike.png",
       tags: ["Java", "JavaScript", "MySQL", "Spring MVC", "Bootstrap"],
-      liveUrl: "#",
-      repoUrl: "#",
+      liveUrl: "rideeasy-bike-rental.vercel.app",
+      repoUrl: "https://github.com/surajs41/ride-easy-rental",
     },
   ];
 
