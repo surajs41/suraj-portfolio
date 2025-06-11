@@ -7,27 +7,47 @@ const Skills = () => {
     {
       title: "Programming Languages",
       icon: <Code className="h-8 w-8 text-primary mb-4" />,
-      skills: ["Java", "JavaScript", "HTML", "CSS", "SQL"],
+      skills: ["Java", "JavaScript"],
+    },
+    {
+      title: "Web Technologies ",
+      icon: <Layout className="h-8 w-8 text-primary mb-4" />,
+      skills: ["HTML5", "CSS3", "Bootstrap", "WordPress", "React.js", "APIIntegration & Automation."],
     },
     {
       title: "Frameworks & Libraries",
       icon: <Layout className="h-8 w-8 text-primary mb-4" />,
-      skills: ["Spring Boot", "Hibernate", "Bootstrap"],
+      skills: ["Spring Boot", "Hibernate"],
+    },
+    {
+      title: "DevOps & CI/CD",
+      icon: <Layout className="h-8 w-8 text-primary mb-4" />,
+      skills: ["Docker", "Jenkins (working knowledge)", "Git", "GitHub", "GitLab."],
     },
     {
       title: "Databases",
       icon: <Database className="h-8 w-8 text-primary mb-4" />,
-      skills: ["MySQL"],
+      skills: ["MySQL", "SQLite"],
     },
     {
-      title: "Backend Development",
+      title: "Operating System",
       icon: <Server className="h-8 w-8 text-primary mb-4" />,
-      skills: ["RESTful APIs", "Microservices", "JDBC", "JPA", "API Integration", "JSP"],
+      skills: ["Windows", "Linux(Ubuntu)"],
     },
     {
-      title: "Tools & Technologies",
+      title: "Scripting",
       icon: <Settings className="h-8 w-8 text-primary mb-4" />,
-      skills: ["Git", "Maven", "Gradle", "Tomcat", "VSCode", "Spring Tool Suite", "Eclipse", "Postman"],
+      skills: ["Shell Scripting"],
+    },
+    {
+      title: "IDE & Tools",
+      icon: <Settings className="h-8 w-8 text-primary mb-4" />,
+      skills: [ "Maven", "Tomcat", "VSCode", "Spring Tool Suite", "Eclipse", "Postman"],
+    },
+    {
+      title: "Productivity & AI Tools",
+      icon: <Settings className="h-8 w-8 text-primary mb-4" />,
+      skills: ["Cursor.ai", "Lovable.ai", "Replit.ai", "GitHub Copilot"],
     },
   ];
 
