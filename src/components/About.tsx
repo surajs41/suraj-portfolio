@@ -52,7 +52,7 @@ const About = () => {
             </div>
             
             <Button asChild className="rounded-full shadow-md">
-              <a href="https://drive.google.com/file/d/1o5mIHR8RhG1WOLeD5IjaLGow3i_ALoHk/view?usp=drivesdk">
+              <a href="https://drive.google.com/file/d/1YQX6cjeB4ZH8ymW04RKdW5Oz2-mkaEIQ/view?usp=drivesdk">
                 <FileText className="mr-2 h-4 w-4" />
                 Download Resume
               </a>
