@@ -13,7 +13,7 @@ const Projects = () => {
       image: "/hospital.png",
       tags: ["Java", "MySQL", "Spring Boot", "Hibernate", "Bootstrap"],
       liveUrl: "medflow-hospital-nexus.vercel.app",
-      repoUrl: "https://github.com/surajs41/MedicoCare-hospital-nexus",
+      repoUrl: "https://medflow-hospital-nexus.vercel.app/",
     },
     {
       title: "Face Detection System",
@@ -22,7 +22,7 @@ const Projects = () => {
       image: "/face.png",
       tags: ["Python", "OpenCV", "TensorFlow", "Machine Learning"],
       liveUrl: "#",
-      repoUrl: "#",
+      repoUrl: "https://github.com/surajs41/Face-Detection-Of-Lost-Person-And-Criminal-Using-ImageProcessing",
     },
     {
       title: "Online Bike Rental System",
@@ -30,8 +30,8 @@ const Projects = () => {
         "A web application that enables users to rent bikes online with features like booking, payment processing, and inventory management.",
       image: "/bike.png",
       tags: ["Java", "JavaScript", "MySQL", "Spring MVC", "Bootstrap"],
-      liveUrl: "rideeasy-bike-rental.vercel.app",
-      repoUrl: "https://github.com/surajs41/ride-easy-rental",
+      liveUrl: "ride-easy-rental.vercel.app",
+      repoUrl: "https://ride-easy-rental.vercel.app/",
     },
   ];
 
