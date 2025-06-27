@@ -51,7 +51,7 @@ const Hero = () => {
             <div className="relative">
               <div className="w-64 h-68 md:w-80 md:h-80 rounded-full bg-gradient-to-br from-primary/30 to-secondary/30 animate-pulse"></div>
               <img 
-                src="/suraj.png" 
+                src="/Photo2.png" 
                 alt="Suraj Shedge" 
                 className="absolute inset-0 w-64 h-64 md:w-80 md:h-80 rounded-full object-cover"
               />
