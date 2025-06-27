@@ -7,22 +7,22 @@ const Skills = () => {
     {
       title: "Programming Languages",
       icon: <Code className="h-8 w-8 text-primary mb-4" />,
-      skills: ["Java", "JavaScript"],
+      skills: ["Java","C#", "JavaScript"],
     },
     {
       title: "Web Technologies ",
       icon: <Layout className="h-8 w-8 text-primary mb-4" />,
-      skills: ["HTML5", "CSS3", "Bootstrap", "WordPress", "React.js", "APIIntegration & Automation."],
+      skills: ["HTML5", "CSS3", "Bootstrap", "WordPress", "React.js", "API Integration & Automation."],
     },
     {
       title: "Frameworks & Libraries",
       icon: <Layout className="h-8 w-8 text-primary mb-4" />,
-      skills: ["Spring Boot", "Hibernate"],
+      skills: ["Spring Boot", "Hibernate", "ASP.NET Core", "Entity Framework Core"],
     },
     {
       title: "DevOps & CI/CD",
       icon: <Layout className="h-8 w-8 text-primary mb-4" />,
-      skills: ["Docker", "Jenkins (working knowledge)", "Git", "GitHub", "GitLab."],
+      skills: ["Docker", "Git", "GitHub", "GitLab"],
     },
     {
       title: "Databases",
@@ -32,22 +32,17 @@ const Skills = () => {
     {
       title: "Operating System",
       icon: <Server className="h-8 w-8 text-primary mb-4" />,
-      skills: ["Windows", "Linux(Ubuntu)"],
-    },
-    {
-      title: "Scripting",
-      icon: <Settings className="h-8 w-8 text-primary mb-4" />,
-      skills: ["Shell Scripting"],
+      skills: ["Windows", "Linux (Ubuntu)"],
     },
     {
       title: "IDE & Tools",
       icon: <Settings className="h-8 w-8 text-primary mb-4" />,
-      skills: [ "Maven", "Tomcat", "VSCode", "Spring Tool Suite", "Eclipse", "Postman"],
+      skills: [ "Maven", "Tomcat", "VSCode", "Spring Tool Suite", "Eclipse", "Postman" , "Visual Studio", "Sql Server Management Studio", ],
     },
     {
       title: "Productivity & AI Tools",
       icon: <Settings className="h-8 w-8 text-primary mb-4" />,
-      skills: ["Cursor.ai", "Lovable.ai", "Replit.ai", "GitHub Copilot"],
+      skills: ["Cursor.ai", "ChatGPT", "Trae.ai","Lovable.ai", "Replit.ai", "GitHub Copilot","Supabase"],
     },
   ];
 
