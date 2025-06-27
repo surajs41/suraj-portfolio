@@ -1,10 +1,9 @@
-
 import { Button } from "@/components/ui/button";
 import { FileText } from "lucide-react";
 
 const About = () => {
   return (
-    <section id="about" className="gradient-bg py-10 md:py-16 relative">
+    <section id="about" className="gradient-bg py-8 md:py-20 relative">
       <div className="section-container">
         <h2 className="section-title text-center mx-auto">About Me</h2>
         
