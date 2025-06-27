@@ -1,4 +1,3 @@
-
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
@@ -12,7 +11,7 @@ const Projects = () => {
         "A comprehensive Java-based system for managing hospital operations including patient records, doctor schedules, and appointment booking.",
       image: "/hospital.png",
       tags: ["Java", "MySQL", "Spring Boot", "Hibernate", "Bootstrap"],
-      liveUrl: "medflow-hospital-nexus.vercel.app",
+      liveUrl: "https://medflow-hospital-nexus.vercel.app/",
       repoUrl: "https://medflow-hospital-nexus.vercel.app/",
     },
     {
@@ -22,7 +21,7 @@ const Projects = () => {
       image: "/face.png",
       tags: ["Python", "OpenCV", "TensorFlow", "Machine Learning"],
       liveUrl: "#",
-      repoUrl: "https://github.com/surajs41/Face-Detection-Of-Lost-Person-And-Criminal-Using-ImageProcessing",
+      repoUrl: "https://github.com/surajs41/FaceTrace-AI-Based-Detection-of-Missing-Wanted-Individuals",
     },
     {
       title: "Online Bike Rental System",
@@ -30,7 +29,7 @@ const Projects = () => {
         "A web application that enables users to rent bikes online with features like booking, payment processing, and inventory management.",
       image: "/bike.png",
       tags: ["Java", "JavaScript", "MySQL", "Spring MVC", "Bootstrap"],
-      liveUrl: "ride-easy-rental.vercel.app",
+      liveUrl: "https://ride-easy-rental.vercel.app/",
       repoUrl: "https://ride-easy-rental.vercel.app/",
     },
   ];
