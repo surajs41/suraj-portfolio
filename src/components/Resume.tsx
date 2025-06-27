@@ -91,7 +91,7 @@ const Resume = () => {
         <h2 className="section-title">Resume</h2>
         <Button asChild className="mt-6 md:mt-0 rounded-full">
           <a
-            href="https://drive.google.com/file/d/1o5mIHR8RhG1WOLeD5IjaLGow3i_ALoHk/view?usp=drivesdk"
+            href="https://drive.google.com/file/d/12fXI5299pWbLO0_VhErdW30oV_KDH3Ey/view?usp=drivesdk"
             download
           >
             <Download className="mr-2 h-4 w-4" />
