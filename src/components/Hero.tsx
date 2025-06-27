@@ -1,10 +1,9 @@
-
 import { Button } from "@/components/ui/button";
 import { ArrowDown, Github, Linkedin, Mail } from "lucide-react";
 
 const Hero = () => {
   return (
-    <section className="min-h-screen flex items-center justify-center pt-16 pb-0 overflow-hidden bg-gradient-to-b from-background to-muted/30">
+    <section className="py-10 md:py-24 min-h-screen flex items-center justify-center pt-16 pb-0 overflow-hidden bg-gradient-to-b from-background to-muted/30">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 relative z-10">
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 text-center md:text-left mb-10 md:mb-0">
